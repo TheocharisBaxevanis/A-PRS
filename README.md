@@ -1,0 +1,1 @@
+HE_GTN.mph contains a COMSOL Multiphysics implementation of a finite-strain, multi-field model for hydrogen embrittlement in porous ductile metals, based on a geometric phase-field approach applied to the Gurson–Tvergaard–Needleman (GTN) model.
